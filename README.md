@@ -36,10 +36,6 @@
 
 https://github.com/user-attachments/assets/ec853ec0-89d9-4a39-928c-7d1c80c8dfd4
 
-**AI 전화 상담 PoC · 39초**
-
-https://github.com/user-attachments/assets/a882004d-f51e-498f-8e0c-6c85e7c790c9
-
 ### 🖥 관리자 웹
 
 관리자 웹을 모의 데이터로 실행해 캡처한 화면입니다.
