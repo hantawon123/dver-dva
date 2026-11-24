@@ -32,9 +32,13 @@
 
 ### 🎬 시연 영상
 
-[![DVA 전화 택배 접수 영상 재생](assets/dva-intro-poster.jpg)](assets/dva-intro.mp4)
+**서비스 소개 · 54초**
 
-[서비스 소개 · 54초](assets/dva-intro.mp4) · [AI 전화 상담 PoC · 39초](assets/dva-call-demo.mp4)
+https://github.com/user-attachments/assets/ec853ec0-89d9-4a39-928c-7d1c80c8dfd4
+
+**AI 전화 상담 PoC · 39초**
+
+https://github.com/user-attachments/assets/a882004d-f51e-498f-8e0c-6c85e7c790c9
 
 ### 🖥 관리자 웹
 
@@ -130,10 +134,11 @@ Docker Compose에서 NestJS 모듈과 PostgreSQL을 함께 운영합니다. 관�
 
 ### 📱 통화 화면과 시연
 
-| 앱 통화 화면 | 음성 합성 비교 |
-| :---: | :---: |
-| <img src="assets/vomi-call.jpg" width="235" alt="VOMI 통화 화면의 대화 내역, 추천 답변, 직접 입력"> | [![VOMI 음성 합성 비교 영상 재생](assets/vomi-demo-poster.jpg)](assets/vomi-voice-demo.mp4) |
-| 대화 내역 · 추천 답변 · 직접 입력 | [비교 영상 · 13초](assets/vomi-voice-demo.mp4) |
+<img src="assets/vomi-call.jpg" width="235" alt="VOMI 통화 화면의 대화 내역, 추천 답변, 직접 입력">
+
+**음성 합성 비교 · 13초**
+
+https://github.com/user-attachments/assets/fae885d6-8131-4b5e-bf38-7e27e3afc403
 
 **같은 문장 듣기** · [원본 녹음](assets/vomi-original.wav) · [ElevenLabs](assets/vomi-elevenlabs.wav) · [OmniVoice + LoRA](assets/vomi-omnivoice.wav)
 
