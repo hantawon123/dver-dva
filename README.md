@@ -1,3 +1,5 @@
+<p align="right"><strong>KR</strong> | <a href="README.en.md">EN</a></p>
+
 # Dver·Dva
 
 **SSAFY 15기 구미 D109 · 디버(Dver) 기업연계 프로젝트**
